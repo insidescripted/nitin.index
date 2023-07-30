@@ -1,3 +1,3 @@
 Nitin Chauhan Website<br>
 nchauhan.github.io Nitin Chauhan's Personal Website<br><br>
-<img width="1505" alt="Screenshot 2023-07-30 at 9 00 47 PM" src="https://github.com/insidescripted/nchauhan/assets/54750557/eea95035-be01-4bd0-a458-cd493db279ec">
+<img width="1510" alt="Screenshot 2023-07-30 at 10 04 18 PM" src="https://github.com/insidescripted/nitin.index/assets/54750557/6eff0726-56db-42dc-bb9d-46219478e959">
